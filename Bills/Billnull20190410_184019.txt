@@ -1,0 +1,6 @@
+Book Name          Price
+The Stalker Rs. 69
+1984 Rs. 88
+Animal Farm Rs. 43
+And The Mountains Echoed Rs. 350
+Total:    Rs. 550

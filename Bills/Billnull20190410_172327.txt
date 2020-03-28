@@ -1,0 +1,12 @@
+Book Name          Price
+The Stalker Rs. 69
+To Kill A Mockingbird Rs. 223
+Animal Farm Rs. 43
+The Kite Runner Rs. 317
+And The Mountains Echoed Rs. 350
+Veronika Decides to Die Rs. 194
+Eleven Minutes Rs. 190
+The Diary of Young Girl Rs. 59
+To Kill A Mockingbird Rs. 223
+The Alchemist Rs. 193
+Total:    Rs. 1861

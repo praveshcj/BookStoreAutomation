@@ -1,0 +1,2 @@
+Book Name          Price
+Total:    Rs. 0
